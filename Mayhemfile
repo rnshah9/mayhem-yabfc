@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-yabfc
+target: yabfc
+
+cmds:
+  - cmd: /yabfc/yabfc @@
+    filepath: /test.bf
